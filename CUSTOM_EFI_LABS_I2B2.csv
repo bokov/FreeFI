@@ -1,0 +1,69 @@
+GRP	CODE	DEFICIT	VALUEFLAG	NOTES
+14	PAT_ENC:BP_SYSTOLIC_ART	Systolic Blood Pressure (BP, Arterial)	H	Not a standard code, may vary between different EMR systems
+14	PAT_ENC:BP_SYSTOLIC	Systolic Blood Pressure (BP)	H	Not a standard code, may vary between different EMR systems
+14	PAT_ENC:BP_DIASTOLIC	Diastolic Blood Pressure (BP, Arterial)	H	Not a standard code, may vary between different EMR systems
+14	PAT_ENC:BP_DIASTOLIC_ART	Diastolic Blood Pressure (BP)	H	Not a standard code, may vary between different EMR systems
+34	PAT_ENC:BMI	Obese	H	Not a standard code, may vary between different EMR systems
+35	PAT_ENC:BMI	Underweight	L	Not a standard code, may vary between different EMR systems
+5	LOINC:33914-3	eGFR (CKD-EPI equation)	H	
+36	LOINC:2085-9	HDL Cholesterol	L	
+37	LOINC:9830-1	Total Cholesterol	H	
+37	LOINC:9830-1	Total Cholesterol	L	
+38	LOINC:2571-8	Triglycerides	H	
+39	LOINC:21476-7	 Potassium:SCnc:24H:Urine:Qn	H	
+39	LOINC:2828-2	 Potassium:SCnc:Pt:Urine:Qn	H	
+39	LOINC:2829-0	 Potassium:SRat:24H:Urine:Qn	H	
+39	LOINC:32550-6	 Potassium:Sub:XXX:Urine:Qn	H	
+39	LOINC:2823-3	 Potassium:SCnc:Pt:Ser/Plas:Qn	H	
+39	LOINC:6298-4	 Potassium:SCnc:Pt:Bld:Qn	H	
+39	LOINC:75940-7	 Potassium:MCnc:Pt:Bld:Qn	H	
+39	LOINC:21476-7	 Potassium:SCnc:24H:Urine:Qn	L	
+39	LOINC:2828-2	 Potassium:SCnc:Pt:Urine:Qn	L	
+39	LOINC:2829-0	 Potassium:SRat:24H:Urine:Qn	L	
+39	LOINC:32550-6	 Potassium:Sub:XXX:Urine:Qn	L	
+39	LOINC:2823-3	 Potassium:SCnc:Pt:Ser/Plas:Qn	L	
+39	LOINC:6298-4	 Potassium:SCnc:Pt:Bld:Qn	L	
+39	LOINC:75940-7	 Potassium:MCnc:Pt:Bld:Qn	L	
+40	LOINC:2947-0	 Sodium:SCnc:Pt:Bld:Qn	H	
+40	LOINC:2951-2	 Sodium:SCnc:Pt:Ser/Plas:Qn	H	
+40	LOINC:21525-1	 Sodium:SCnc:24H:Urine:Qn	H	
+40	LOINC:2955-3	 Sodium:SCnc:Pt:Urine:Qn	H	
+40	LOINC:2956-1	 Sodium:SRat:24H:Urine:Qn	H	
+40	LOINC:32553-0	 Sodium:Sub:XXX:Urine:Qn	H	
+40	LOINC:2947-0	 Sodium:SCnc:Pt:Bld:Qn	L	
+40	LOINC:2951-2	 Sodium:SCnc:Pt:Ser/Plas:Qn	L	
+40	LOINC:21525-1	 Sodium:SCnc:24H:Urine:Qn	L	
+40	LOINC:2955-3	 Sodium:SCnc:Pt:Urine:Qn	L	
+40	LOINC:2956-1	 Sodium:SRat:24H:Urine:Qn	L	
+40	LOINC:32553-0	 Sodium:Sub:XXX:Urine:Qn	L	
+40	LOINC:2947-0	 Sodium:SCnc:Pt:Bld:Qn	L	
+32	LOINC:1920-8	 Aspartate aminotransferase:CCnc:Pt:Ser/Plas:Qn	H	
+32	LOINC:1920-8	 Aspartate aminotransferase:CCnc:Pt:Ser/Plas:Qn	L	
+41	LOINC:787-2	 Erythrocyte mean corpuscular volume:EntVol:Pt:RBC:Qn:Automated count	H	
+41	LOINC:787-2	 Erythrocyte mean corpuscular volume:EntVol:Pt:RBC:Qn:Automated count	L	
+42	LOINC:3094-0	 Urea nitrogen:MCnc:Pt:Ser/Plas:Qn	H	
+42	LOINC:3094-0	 Urea nitrogen:MCnc:Pt:Ser/Plas:Qn	L	
+43	LOINC:17861-6	 Calcium:MCnc:Pt:Ser/Plas:Qn	H	
+43	LOINC:17861-6	 Calcium:MCnc:Pt:Ser/Plas:Qn	L	
+44	LOINC:1751-7	 Albumin:MCnc:Pt:Ser/Plas:Qn	H	
+44	LOINC:14957-5	 Albumin:MCnc:Pt:Urine:Qn:Detection limit &amp;lt;= 20 mg/L	H	
+44	LOINC:1751-7	 Albumin:MCnc:Pt:Ser/Plas:Qn	L	
+44	LOINC:14957-5	 Albumin:MCnc:Pt:Urine:Qn:Detection limit &amp;lt;= 20 mg/L	L	
+45	LOINC:20454-5	 Protein:PrThr:Pt:Urine:Ord:Test strip	H	
+45	LOINC:2885-2	 Protein:MCnc:Pt:Ser/Plas:Qn	H	
+45	LOINC:20454-5	 Protein:PrThr:Pt:Urine:Ord:Test strip	L	
+45	LOINC:2885-2	 Protein:MCnc:Pt:Ser/Plas:Qn	L	
+46	LOINC:6768-6	 Alkaline phosphatase:CCnc:Pt:Ser/Plas:Qn	H	
+46	LOINC:6768-6	 Alkaline phosphatase:CCnc:Pt:Ser/Plas:Qn	L	
+47	LOINC:718-7	 Hemoglobin:MCnc:Pt:Bld:Qn	H	
+47	LOINC:20509-6	 Hemoglobin:MCnc:Pt:Bld:Qn:Calculated	H	
+47	LOINC:718-7	 Hemoglobin:MCnc:Pt:Bld:Qn	L	
+47	LOINC:20509-6	 Hemoglobin:MCnc:Pt:Bld:Qn:Calculated	L	
+6	LOINC:25428-4	 Glucose:PrThr:Pt:Urine:Ord:Test strip	H	
+6	LOINC:41653-7	 Glucose:MCnc:Pt:BldC:Qn:Glucometer	H	
+6	LOINC:2339-0	 Glucose:MCnc:Pt:Bld:Qn	H	
+6	LOINC:2345-7	 Glucose:MCnc:Pt:Ser/Plas:Qn	H	
+6	LOINC:25428-4	 Glucose:PrThr:Pt:Urine:Ord:Test strip	L	
+6	LOINC:41653-7	 Glucose:MCnc:Pt:BldC:Qn:Glucometer	L	
+6	LOINC:2339-0	 Glucose:MCnc:Pt:Bld:Qn	L	
+6	LOINC:2345-7	 Glucose:MCnc:Pt:Ser/Plas:Qn	L	

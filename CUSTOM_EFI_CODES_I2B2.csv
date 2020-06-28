@@ -1,0 +1,1132 @@
+GRP	DIAG	DEFICIT	SOURCE	NOTES
+12	ICD9:404.03	Congestive Heart Failure	Quan Charlson	
+12	ICD9:404.11	Congestive Heart Failure	Quan Charlson	
+12	ICD9:404.13	Congestive Heart Failure	Quan Charlson	
+12	ICD9:404.91	Congestive Heart Failure	Quan Charlson	
+12	ICD9:404.93	Congestive Heart Failure	Quan Charlson	
+12	ICD9:425.4	Congestive Heart Failure	Quan Charlson	
+12	ICD9:425.5	Congestive Heart Failure	Quan Charlson	
+12	ICD9:425.6	Congestive Heart Failure	Quan Charlson	
+12	ICD9:425.7	Congestive Heart Failure	Quan Charlson	
+12	ICD9:425.8	Congestive Heart Failure	Quan Charlson	
+12	ICD9:425.9	Congestive Heart Failure	Quan Charlson	
+12	ICD9:428	Congestive Heart Failure	Quan Charlson	
+13	ICD10:A52.0	Valvular Disease	Quan Elixhauser	
+13	ICD10:I05	Valvular Disease	Quan Elixhauser	
+13	ICD10:I06	Valvular Disease	Quan Elixhauser	
+13	ICD10:I07	Valvular Disease	Quan Elixhauser	
+13	ICD10:I08	Valvular Disease	Quan Elixhauser	
+13	ICD10:I09.1	Valvular Disease	Quan Elixhauser	
+13	ICD10:I09.8	Valvular Disease	Quan Elixhauser	
+13	ICD10:I34	Valvular Disease	Quan Elixhauser	
+13	ICD10:I35	Valvular Disease	Quan Elixhauser	
+13	ICD10:I36	Valvular Disease	Quan Elixhauser	
+13	ICD10:I37	Valvular Disease	Quan Elixhauser	
+13	ICD10:I38	Valvular Disease	Quan Elixhauser	
+13	ICD10:I39	Valvular Disease	Quan Elixhauser	
+13	ICD10:Q23.0	Valvular Disease	Quan Elixhauser	
+13	ICD10:Q23.1	Valvular Disease	Quan Elixhauser	
+13	ICD10:Q23.2	Valvular Disease	Quan Elixhauser	
+13	ICD10:Q23.3	Valvular Disease	Quan Elixhauser	
+13	ICD10:Z95.2	Valvular Disease	Quan Elixhauser	
+13	ICD10:Z95.3	Valvular Disease	Quan Elixhauser	
+13	ICD10:Z95.4	Valvular Disease	Quan Elixhauser	
+13	ICD9:093.2	Valvular Disease	Quan Elixhauser	
+13	ICD9:394	Valvular Disease	Quan Elixhauser	
+13	ICD9:395	Valvular Disease	Quan Elixhauser	
+13	ICD9:396	Valvular Disease	Quan Elixhauser	
+13	ICD9:397	Valvular Disease	Quan Elixhauser	
+13	ICD9:424	Valvular Disease	Quan Elixhauser	
+13	ICD9:746.3	Valvular Disease	Quan Elixhauser	
+13	ICD9:746.4	Valvular Disease	Quan Elixhauser	
+13	ICD9:746.5	Valvular Disease	Quan Elixhauser	
+13	ICD9:746.6	Valvular Disease	Quan Elixhauser	
+13	ICD9:V42.2	Valvular Disease	Quan Elixhauser	
+13	ICD9:V43.3	Valvular Disease	Quan Elixhauser	
+14	ICD10:I10	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+14	ICD10:I11	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+14	ICD10:I12	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+14	ICD10:I13	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+14	ICD10:I15	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+14	ICD9:401	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+14	ICD9:402	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+14	ICD9:403	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+14	ICD9:404	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+14	ICD9:405	Hypertension (uncomplicated and complicated)	Quan Elixhauser	
+15	ICD10:I95.1	Hypotension / Syncope	Manual Lookup / HCUP CCS	
+15	ICD10:I95.89	Hypotension / Syncope	Manual Lookup / HCUP CCS	
+15	ICD10:I95.9	Hypotension / Syncope	Manual Lookup / HCUP CCS	
+15	ICD10:R55	Hypotension / Syncope	Manual Lookup / HCUP CCS	
+15	ICD9:458.0	Hypotension / Syncope	Manual Lookup / HCUP CCS	
+15	ICD9:458.1	Hypotension / Syncope	Manual Lookup / HCUP CCS	
+15	ICD9:458.8	Hypotension / Syncope	Manual Lookup / HCUP CCS	
+15	ICD9:458.9	Hypotension / Syncope	Manual Lookup / HCUP CCS	
+15	ICD9:780.2	Hypotension / Syncope	Manual Lookup / HCUP CCS	
+16	ICD10:I21	Myocardial Infarction	Quan Charlson	
+16	ICD10:I22	Myocardial Infarction	Quan Charlson	
+16	ICD10:I25.2	Myocardial Infarction	Quan Charlson	
+16	ICD9:410	Myocardial Infarction	Quan Charlson	
+16	ICD9:412	Myocardial Infarction	Quan Charlson	
+17	ICD10:I20	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD10:I24	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD10:I25	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD10:Z95.1	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD10:Z98.61	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:411	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:413	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.00	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.01	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.06	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.2	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.3	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.4	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.5	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.6	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.7	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.8	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:414.9	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:V45.81	Coronary atherosclerosis and other heart disease	HCUP CCS	
+17	ICD9:V45.82	Coronary atherosclerosis and other heart disease	HCUP CCS	
+18	ICD10:C43	Melanoma	HCUP CCS	
+18	ICD10:D03	Melanoma	HCUP CCS	
+18	ICD10:Z85.820	Melanoma	HCUP CCS	
+18	ICD10:C81	Melanoma	HCUP CCS	
+1	ICD10:D50.0	Anemia 	Quan Elixhauser	
+1	ICD10:D50.8	Anemia 	Quan Elixhauser	
+1	ICD10:D50.9	Anemia 	Quan Elixhauser	
+1	ICD10:D51	Anemia 	Quan Elixhauser	
+1	ICD10:D52	Anemia 	Quan Elixhauser	
+1	ICD10:D53	Anemia 	Quan Elixhauser	
+1	ICD9:280.0	Anemia 	Quan Elixhauser	
+1	ICD9:280.1	Anemia 	Quan Elixhauser	
+1	ICD9:280.2	Anemia 	Quan Elixhauser	
+1	ICD9:280.3	Anemia 	Quan Elixhauser	
+1	ICD9:280.4	Anemia 	Quan Elixhauser	
+1	ICD9:280.5	Anemia 	Quan Elixhauser	
+1	ICD9:280.6	Anemia 	Quan Elixhauser	
+1	ICD9:280.7	Anemia 	Quan Elixhauser	
+1	ICD9:280.8	Anemia 	Quan Elixhauser	
+1	ICD9:280.9	Anemia 	Quan Elixhauser	
+1	ICD9:281	Anemia 	Quan Elixhauser	
+2	ICD10:M05	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M06	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M15	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M16	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M17	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M18	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M19	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M31.5	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M32	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M33	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M34	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M35.1	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M35.3	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD10:M36.0	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:446.5	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:710.0	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:710.1	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:710.2	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:710.3	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:710.4	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:714.0	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:714.1	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:714.2	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:714.8	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:715.0	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:715	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:725	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+2	ICD9:V13.4	Rheumatoid Arthritis or Osteoarthritis	Tonelli / HCUP CCS	
+3	ICD10:I48.91	Atrial Fibrillation	Tonelli	
+3	ICD9:427.31	Atrial Fibrillation	Tonelli	
+4	ICD10:G45.0	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:G45.1	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:G45.2	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:G45.3	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:G45.8	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:G45.9	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:H34.1	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:I60	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:I61	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:I63	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD10:I64	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:362.3	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:430	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:431	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.01	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.11	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.21	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.31	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.41	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.51	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.61	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.71	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.81	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:433.91	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.01	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.11	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.21	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.31	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.41	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.51	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.61	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.71	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.81	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:434.91	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:435.0	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:435	Stroke or Transient Ischemic Attack	Tonelli	
+4	ICD9:436	Stroke or Transient Ischemic Attack	Tonelli	
+5	ICD10:I12.0	Renal Disease	Quan Charlson	
+5	ICD10:I13.1	Renal Disease	Quan Charlson	
+5	ICD10:N03.2	Renal Disease	Quan Charlson	
+5	ICD10:N03.3	Renal Disease	Quan Charlson	
+5	ICD10:N03.4	Renal Disease	Quan Charlson	
+5	ICD10:N03.5	Renal Disease	Quan Charlson	
+5	ICD10:N03.6	Renal Disease	Quan Charlson	
+5	ICD10:N03.7	Renal Disease	Quan Charlson	
+5	ICD10:N05.2	Renal Disease	Quan Charlson	
+5	ICD10:N05.3	Renal Disease	Quan Charlson	
+5	ICD10:N05.4	Renal Disease	Quan Charlson	
+5	ICD10:N05.5	Renal Disease	Quan Charlson	
+5	ICD10:N05.6	Renal Disease	Quan Charlson	
+5	ICD10:N05.7	Renal Disease	Quan Charlson	
+5	ICD10:N18	Renal Disease	Quan Charlson	
+5	ICD10:N19	Renal Disease	Quan Charlson	
+5	ICD10:N25.0	Renal Disease	Quan Charlson	
+5	ICD10:Z49.0	Renal Disease	Quan Charlson	
+5	ICD10:Z49.1	Renal Disease	Quan Charlson	
+5	ICD10:Z49.2	Renal Disease	Quan Charlson	
+5	ICD10:Z94.0	Renal Disease	Quan Charlson	
+5	ICD10:Z99.2	Renal Disease	Quan Charlson	
+5	ICD9:403.01	Renal Disease	Quan Charlson	
+5	ICD9:403.11	Renal Disease	Quan Charlson	
+5	ICD9:403.91	Renal Disease	Quan Charlson	
+5	ICD9:404.02	Renal Disease	Quan Charlson	
+5	ICD9:404.12	Renal Disease	Quan Charlson	
+5	ICD9:404.92	Renal Disease	Quan Charlson	
+5	ICD9:582	Renal Disease	Quan Charlson	
+5	ICD9:583.0	Renal Disease	Quan Charlson	
+5	ICD9:583.1	Renal Disease	Quan Charlson	
+5	ICD9:583.2	Renal Disease	Quan Charlson	
+5	ICD9:583.3	Renal Disease	Quan Charlson	
+5	ICD9:583.4	Renal Disease	Quan Charlson	
+5	ICD9:583.5	Renal Disease	Quan Charlson	
+5	ICD9:583.6	Renal Disease	Quan Charlson	
+5	ICD9:583.7	Renal Disease	Quan Charlson	
+5	ICD9:585	Renal Disease	Quan Charlson	
+5	ICD9:586	Renal Disease	Quan Charlson	
+5	ICD9:V42.0	Renal Disease	Quan Charlson	
+5	ICD9:V45.1	Renal Disease	Quan Charlson	
+5	ICD9:V56	Renal Disease	Quan Charlson	
+6	ICD10:E10	Diabetes	Quan Charlson	
+6	ICD10:E11	Diabetes	Quan Charlson	
+6	ICD10:E12	Diabetes	Quan Charlson	
+6	ICD10:E13	Diabetes	Quan Charlson	
+6	ICD10:E14	Diabetes	Quan Charlson	
+6	ICD9:250	Diabetes	Quan Charlson	
+7	ICD10:H81.09	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H81.13	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H81.23	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H81.319	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H81.399	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H81.49	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H81.8X9	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H81.93	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H82.9	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H83.09	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H83.19	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H83.2X9	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H83.8X9	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:H83.93	Dizziness or Vertigo	HCUP CCS	
+7	ICD10:R42	Dizziness or Vertigo	HCUP CCS	
+7	ICD9:386	Dizziness or Vertigo	HCUP CCS	
+7	ICD9:780.4	Dizziness or Vertigo	HCUP CCS	
+8	ICD10:R06.00	Dyspnea	Manual Lookup	
+8	ICD10:R06.01	Dyspnea	Manual Lookup	
+8	ICD10:R06.02	Dyspnea	Manual Lookup	
+8	ICD10:R06.09	Dyspnea	Manual Lookup	
+8	ICD10:R06.2	Dyspnea	Manual Lookup	
+8	ICD10:R06.3	Dyspnea	Manual Lookup	
+8	ICD10:R06.4	Dyspnea	Manual Lookup	
+8	ICD10:R06.8	Dyspnea	Manual Lookup	
+8	ICD10:R06.9	Dyspnea	Manual Lookup	
+8	ICD9:786.0	Dyspnea	Manual Lookup	
+9	ICD10:V00.111A	Falls	HCUP CCS	
+9	ICD10:V00.131A	Falls	HCUP CCS	
+9	ICD10:V00.141A	Falls	HCUP CCS	
+9	ICD10:V00.151A	Falls	HCUP CCS	
+9	ICD10:V00.312A	Falls	HCUP CCS	
+9	ICD10:V00.321A	Falls	HCUP CCS	
+9	ICD10:V00.388A	Falls	HCUP CCS	
+9	ICD10:W01.110A	Falls	HCUP CCS	
+9	ICD10:W01.198A	Falls	HCUP CCS	
+9	ICD10:W03.XXXA	Falls	HCUP CCS	
+9	ICD10:W05.0XXA	Falls	HCUP CCS	
+9	ICD10:W05.1XXA	Falls	HCUP CCS	
+9	ICD10:W05.2XXA	Falls	HCUP CCS	
+9	ICD10:W06.XXXA	Falls	HCUP CCS	
+9	ICD10:W07.XXXA	Falls	HCUP CCS	
+9	ICD10:W08.XXXA	Falls	HCUP CCS	
+9	ICD10:W09.8XXA	Falls	HCUP CCS	
+9	ICD10:W10.0XXA	Falls	HCUP CCS	
+9	ICD10:W10.1XXA	Falls	HCUP CCS	
+9	ICD10:W10.8XXA	Falls	HCUP CCS	
+9	ICD10:W11.XXXA	Falls	HCUP CCS	
+9	ICD10:W12.XXXA	Falls	HCUP CCS	
+9	ICD10:W13.9XXA	Falls	HCUP CCS	
+9	ICD10:W14.XXXA	Falls	HCUP CCS	
+9	ICD10:W15.XXXA	Falls	HCUP CCS	
+9	ICD10:W16.92XA	Falls	HCUP CCS	
+9	ICD10:W17.0XXA	Falls	HCUP CCS	
+9	ICD10:W17.1XXA	Falls	HCUP CCS	
+9	ICD10:W17.2XXA	Falls	HCUP CCS	
+9	ICD10:W17.81XA	Falls	HCUP CCS	
+9	ICD10:W17.89XA	Falls	HCUP CCS	
+9	ICD10:W18.11XA	Falls	HCUP CCS	
+9	ICD10:W18.30XA	Falls	HCUP CCS	
+9	ICD10:W18.49XA	Falls	HCUP CCS	
+9	ICD10:W19.XXXA	Falls	HCUP CCS	
+9	ICD10:Y01.XXXA	Falls	HCUP CCS	
+9	ICD10:Y30.XXXA	Falls	HCUP CCS	
+9	ICD9:E88.0	Falls	HCUP CCS	
+9	ICD9:E88.1	Falls	HCUP CCS	
+9	ICD9:E88.2	Falls	HCUP CCS	
+9	ICD9:E88.3	Falls	HCUP CCS	
+9	ICD9:E88.4	Falls	HCUP CCS	
+9	ICD9:E88.5	Falls	HCUP CCS	
+9	ICD9:E88.6	Falls	HCUP CCS	
+9	ICD9:E88.8	Falls	HCUP CCS	
+9	ICD9:E96.81	Falls	HCUP CCS	
+9	ICD9:E98.7	Falls	HCUP CCS	
+10	ICD10:M48.5	Fragility or Fracture	Weaver	
+10	ICD10:M80.0	Fragility or Fracture	Weaver	
+10	ICD10:M80.8	Fragility or Fracture	Weaver	
+10	ICD10:M84.3	Fragility or Fracture	Weaver	
+10	ICD10:M84.4	Fragility or Fracture	Weaver	
+10	ICD10:M84.5	Fragility or Fracture	Weaver	
+10	ICD10:M84.6	Fragility or Fracture	Weaver	
+10	ICD10:M84.7	Fragility or Fracture	Weaver	
+10	ICD10:S02	Fragility or Fracture	Weaver	
+10	ICD10:S12	Fragility or Fracture	Weaver	
+10	ICD10:S22	Fragility or Fracture	Weaver	
+10	ICD10:S32	Fragility or Fracture	Weaver	
+10	ICD10:S42	Fragility or Fracture	Weaver	
+10	ICD10:S52	Fragility or Fracture	Weaver	
+10	ICD10:S62	Fragility or Fracture	Weaver	
+10	ICD10:S72	Fragility or Fracture	Weaver	
+10	ICD10:S82	Fragility or Fracture	Weaver	
+10	ICD10:S92	Fragility or Fracture	Weaver	
+10	ICD9:733.11	Fragility or Fracture	Weaver	
+10	ICD9:733.12	Fragility or Fracture	Weaver	
+10	ICD9:733.13	Fragility or Fracture	Weaver	
+10	ICD9:733.14	Fragility or Fracture	Weaver	
+10	ICD9:733.15	Fragility or Fracture	Weaver	
+10	ICD9:733.16	Fragility or Fracture	Weaver	
+10	ICD9:733.93	Fragility or Fracture	Weaver	
+10	ICD9:733.94	Fragility or Fracture	Weaver	
+10	ICD9:805.2	Fragility or Fracture	Weaver	
+10	ICD9:805.4	Fragility or Fracture	Weaver	
+10	ICD9:805.6	Fragility or Fracture	Weaver	
+10	ICD9:805.8	Fragility or Fracture	Weaver	
+10	ICD9:807.01	Fragility or Fracture	Weaver	
+10	ICD9:807.02	Fragility or Fracture	Weaver	
+10	ICD9:807.09	Fragility or Fracture	Weaver	
+10	ICD9:808.0	Fragility or Fracture	Weaver	
+10	ICD9:808.2	Fragility or Fracture	Weaver	
+10	ICD9:808.4	Fragility or Fracture	Weaver	
+10	ICD9:808.8	Fragility or Fracture	Weaver	
+10	ICD9:810.0	Fragility or Fracture	Weaver	
+10	ICD9:811.00	Fragility or Fracture	Weaver	
+10	ICD9:811.01	Fragility or Fracture	Weaver	
+10	ICD9:811.02	Fragility or Fracture	Weaver	
+10	ICD9:811.09	Fragility or Fracture	Weaver	
+10	ICD9:812.0	Fragility or Fracture	Weaver	
+10	ICD9:812.2	Fragility or Fracture	Weaver	
+10	ICD9:812.4	Fragility or Fracture	Weaver	
+10	ICD9:813.0	Fragility or Fracture	Weaver	
+10	ICD9:813.2	Fragility or Fracture	Weaver	
+10	ICD9:813.4	Fragility or Fracture	Weaver	
+10	ICD9:813.8	Fragility or Fracture	Weaver	
+10	ICD9:814.0	Fragility or Fracture	Weaver	
+10	ICD9:815.02	Fragility or Fracture	Weaver	
+10	ICD9:820.0	Fragility or Fracture	Weaver	
+10	ICD9:820.2	Fragility or Fracture	Weaver	
+10	ICD9:820.8	Fragility or Fracture	Weaver	
+10	ICD9:821.0	Fragility or Fracture	Weaver	
+10	ICD9:822	Fragility or Fracture	Weaver	
+10	ICD9:823.0	Fragility or Fracture	Weaver	
+10	ICD9:823.2	Fragility or Fracture	Weaver	
+10	ICD9:823.8	Fragility or Fracture	Weaver	
+10	ICD9:824.0	Fragility or Fracture	Weaver	
+10	ICD9:824.2	Fragility or Fracture	Weaver	
+10	ICD9:824.4	Fragility or Fracture	Weaver	
+10	ICD9:824.8	Fragility or Fracture	Weaver	
+10	ICD9:825.25	Fragility or Fracture	Weaver	
+11	ICD10:G96.0	Hearing Impairment	HCUP CCS	
+11	ICD10:H60.0	Hearing Impairment	HCUP CCS	
+11	ICD10:H60.1	Hearing Impairment	HCUP CCS	
+11	ICD10:H60.2	Hearing Impairment	HCUP CCS	
+11	ICD10:H60.3	Hearing Impairment	HCUP CCS	
+11	ICD10:H60.4	Hearing Impairment	HCUP CCS	
+11	ICD10:H60.5	Hearing Impairment	HCUP CCS	
+11	ICD10:H60.6	Hearing Impairment	HCUP CCS	
+11	ICD10:H60.8X	Hearing Impairment	HCUP CCS	
+11	ICD10:H60.9	Hearing Impairment	HCUP CCS	
+11	ICD10:H61	Hearing Impairment	HCUP CCS	
+11	ICD10:H62	Hearing Impairment	HCUP CCS	
+11	ICD10:H71	Hearing Impairment	HCUP CCS	
+11	ICD10:H73.0	Hearing Impairment	HCUP CCS	
+11	ICD10:H73.1	Hearing Impairment	HCUP CCS	
+11	ICD10:H74.4	Hearing Impairment	HCUP CCS	
+11	ICD10:H74.5	Hearing Impairment	HCUP CCS	
+11	ICD10:H74.6	Hearing Impairment	HCUP CCS	
+11	ICD10:H74.7	Hearing Impairment	HCUP CCS	
+11	ICD10:H74.8	Hearing Impairment	HCUP CCS	
+11	ICD10:H74.9	Hearing Impairment	HCUP CCS	
+11	ICD10:H83.3	Hearing Impairment	HCUP CCS	
+11	ICD10:H90	Hearing Impairment	HCUP CCS	
+11	ICD10:H91	Hearing Impairment	HCUP CCS	
+11	ICD10:H92	Hearing Impairment	HCUP CCS	
+11	ICD10:H93	Hearing Impairment	HCUP CCS	
+11	ICD10:Z01.110	Hearing Impairment	HCUP CCS	
+11	ICD10:Z01.12	Hearing Impairment	HCUP CCS	
+11	ICD10:Z46.1	Hearing Impairment	HCUP CCS	
+11	ICD10:Z73.82	Hearing Impairment	HCUP CCS	
+11	ICD9:380	Hearing Impairment	HCUP CCS	
+11	ICD9:384.0	Hearing Impairment	HCUP CCS	
+11	ICD9:384.1	Hearing Impairment	HCUP CCS	
+11	ICD9:385.3	Hearing Impairment	HCUP CCS	
+11	ICD9:385.8	Hearing Impairment	HCUP CCS	
+11	ICD9:385.9	Hearing Impairment	HCUP CCS	
+11	ICD9:388	Hearing Impairment	HCUP CCS	
+11	ICD9:389	Hearing Impairment	HCUP CCS	
+11	ICD9:V41.2	Hearing Impairment	HCUP CCS	
+11	ICD9:V41.3	Hearing Impairment	HCUP CCS	
+11	ICD9:V49.85	Hearing Impairment	HCUP CCS	
+11	ICD9:V53.2	Hearing Impairment	HCUP CCS	
+11	ICD9:V72.11	Hearing Impairment	HCUP CCS	
+11	ICD9:V72.12	Hearing Impairment	HCUP CCS	
+12	ICD10:I09.9	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I11.0	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I13.0	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I13.2	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I25.5	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I42.0	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I42.5	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I42.6	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I42.7	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I42.8	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I42.9	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I43	Congestive Heart Failure	Quan Charlson	
+12	ICD10:I50	Congestive Heart Failure	Quan Charlson	
+12	ICD10:P29.0	Congestive Heart Failure	Quan Charlson	
+12	ICD9:398.91	Congestive Heart Failure	Quan Charlson	
+12	ICD9:402.01	Congestive Heart Failure	Quan Charlson	
+12	ICD9:402.11	Congestive Heart Failure	Quan Charlson	
+12	ICD9:402.91	Congestive Heart Failure	Quan Charlson	
+12	ICD9:402.92	Congestive Heart Failure	Quan Charlson	
+12	ICD9:404.01	Congestive Heart Failure	Quan Charlson	
+25	ICD9:707.8	Skin Ulcer	Manual Lookup	
+25	ICD9:707.9	Skin Ulcer	Manual Lookup	
+26	ICD10:E00.9	Thyroid Disease	HCUP CCS	
+26	ICD10:E01.2	Thyroid Disease	HCUP CCS	
+26	ICD10:E01.8	Thyroid Disease	HCUP CCS	
+26	ICD10:E03.2	Thyroid Disease	HCUP CCS	
+26	ICD10:E03.4	Thyroid Disease	HCUP CCS	
+26	ICD10:E03.8	Thyroid Disease	HCUP CCS	
+26	ICD10:E03.9	Thyroid Disease	HCUP CCS	
+26	ICD10:E04	Thyroid Disease	HCUP CCS	
+26	ICD10:E05	Thyroid Disease	HCUP CCS	
+26	ICD10:E06.0	Thyroid Disease	HCUP CCS	
+26	ICD10:E06.1	Thyroid Disease	HCUP CCS	
+26	ICD10:E06.3	Thyroid Disease	HCUP CCS	
+26	ICD10:E06.4	Thyroid Disease	HCUP CCS	
+26	ICD10:E06.5	Thyroid Disease	HCUP CCS	
+26	ICD10:E06.6	Thyroid Disease	HCUP CCS	
+26	ICD10:E06.7	Thyroid Disease	HCUP CCS	
+26	ICD10:E06.8	Thyroid Disease	HCUP CCS	
+26	ICD10:E06.9	Thyroid Disease	HCUP CCS	
+26	ICD10:E07	Thyroid Disease	HCUP CCS	
+26	ICD10:E89.0	Thyroid Disease	HCUP CCS	
+26	ICD10:R94.6	Thyroid Disease	HCUP CCS	
+26	ICD9:240	Thyroid Disease	HCUP CCS	
+26	ICD9:241	Thyroid Disease	HCUP CCS	
+26	ICD9:242	Thyroid Disease	HCUP CCS	
+26	ICD9:243	Thyroid Disease	HCUP CCS	
+26	ICD9:244	Thyroid Disease	HCUP CCS	
+26	ICD9:245	Thyroid Disease	HCUP CCS	
+26	ICD9:246	Thyroid Disease	HCUP CCS	
+26	ICD9:794.5	Thyroid Disease	HCUP CCS	
+27	ICD10:R32	Urinary Incontinence	Manual Lookup	
+27	ICD9:788.3	Urinary Incontinence	Manual Lookup	
+28	ICD10:F52.9	Urinary System Disease	HCUP CCS	
+28	ICD10:N13	Urinary System Disease	HCUP CCS	
+28	ICD10:N20	Urinary System Disease	HCUP CCS	
+28	ICD10:N21	Urinary System Disease	HCUP CCS	
+28	ICD10:N23	Urinary System Disease	HCUP CCS	
+28	ICD10:N25	Urinary System Disease	HCUP CCS	
+28	ICD10:N27	Urinary System Disease	HCUP CCS	
+28	ICD10:N28	Urinary System Disease	HCUP CCS	
+28	ICD10:N31	Urinary System Disease	HCUP CCS	
+28	ICD10:N32	Urinary System Disease	HCUP CCS	
+28	ICD10:N35	Urinary System Disease	HCUP CCS	
+28	ICD10:N36	Urinary System Disease	HCUP CCS	
+28	ICD10:N39	Urinary System Disease	HCUP CCS	
+28	ICD10:N99.110	Urinary System Disease	HCUP CCS	
+28	ICD10:R30	Urinary System Disease	HCUP CCS	
+28	ICD10:R31	Urinary System Disease	HCUP CCS	
+28	ICD10:R33.8	Urinary System Disease	HCUP CCS	
+28	ICD10:R33.9	Urinary System Disease	HCUP CCS	
+28	ICD10:R34	Urinary System Disease	HCUP CCS	
+28	ICD10:R35	Urinary System Disease	HCUP CCS	
+28	ICD10:R36.0	Urinary System Disease	HCUP CCS	
+28	ICD10:R36.9	Urinary System Disease	HCUP CCS	
+28	ICD10:R39	Urinary System Disease	HCUP CCS	
+28	ICD10:R80	Urinary System Disease	HCUP CCS	
+28	ICD10:R82.0	Urinary System Disease	HCUP CCS	
+28	ICD10:R82.1	Urinary System Disease	HCUP CCS	
+28	ICD10:R82.2	Urinary System Disease	HCUP CCS	
+28	ICD10:R82.3	Urinary System Disease	HCUP CCS	
+28	ICD10:R82.5	Urinary System Disease	HCUP CCS	
+28	ICD10:R93.4	Urinary System Disease	HCUP CCS	
+28	ICD10:R94.4	Urinary System Disease	HCUP CCS	
+28	ICD10:Z43.5	Urinary System Disease	HCUP CCS	
+28	ICD10:Z43.6	Urinary System Disease	HCUP CCS	
+28	ICD10:Z46.6	Urinary System Disease	HCUP CCS	
+28	ICD10:Z87.4	Urinary System Disease	HCUP CCS	
+28	ICD10:Z93.5	Urinary System Disease	HCUP CCS	
+28	ICD10:Z93.6	Urinary System Disease	HCUP CCS	
+28	ICD10:Z96.0	Urinary System Disease	HCUP CCS	
+28	ICD9:588	Urinary System Disease	HCUP CCS	
+28	ICD9:589	Urinary System Disease	HCUP CCS	
+28	ICD9:591	Urinary System Disease	HCUP CCS	
+28	ICD9:592	Urinary System Disease	HCUP CCS	
+28	ICD9:593	Urinary System Disease	HCUP CCS	
+28	ICD9:594	Urinary System Disease	HCUP CCS	
+28	ICD9:596.0	Urinary System Disease	HCUP CCS	
+28	ICD9:596.1	Urinary System Disease	HCUP CCS	
+28	ICD9:596.2	Urinary System Disease	HCUP CCS	
+28	ICD9:596.3	Urinary System Disease	HCUP CCS	
+28	ICD9:596.4	Urinary System Disease	HCUP CCS	
+28	ICD9:596.5	Urinary System Disease	HCUP CCS	
+28	ICD9:596.6	Urinary System Disease	HCUP CCS	
+28	ICD9:596.7	Urinary System Disease	HCUP CCS	
+28	ICD9:596.89	Urinary System Disease	HCUP CCS	
+28	ICD9:596.9	Urinary System Disease	HCUP CCS	
+28	ICD9:598.1	Urinary System Disease	HCUP CCS	
+28	ICD9:598.2	Urinary System Disease	HCUP CCS	
+28	ICD9:598.3	Urinary System Disease	HCUP CCS	
+28	ICD9:598.4	Urinary System Disease	HCUP CCS	
+28	ICD9:598.5	Urinary System Disease	HCUP CCS	
+28	ICD9:598.6	Urinary System Disease	HCUP CCS	
+28	ICD9:598.7	Urinary System Disease	HCUP CCS	
+28	ICD9:598.8	Urinary System Disease	HCUP CCS	
+28	ICD9:598.9	Urinary System Disease	HCUP CCS	
+28	ICD9:599.1	Urinary System Disease	HCUP CCS	
+28	ICD9:599.2	Urinary System Disease	HCUP CCS	
+28	ICD9:599.3	Urinary System Disease	HCUP CCS	
+28	ICD9:599.4	Urinary System Disease	HCUP CCS	
+28	ICD9:599.5	Urinary System Disease	HCUP CCS	
+28	ICD9:599.6	Urinary System Disease	HCUP CCS	
+28	ICD9:599.7	Urinary System Disease	HCUP CCS	
+28	ICD9:599.8	Urinary System Disease	HCUP CCS	
+28	ICD9:599.9	Urinary System Disease	HCUP CCS	
+28	ICD9:788	Urinary System Disease	HCUP CCS	
+28	ICD9:791.0	Urinary System Disease	HCUP CCS	
+28	ICD9:791.1	Urinary System Disease	HCUP CCS	
+28	ICD9:791.2	Urinary System Disease	HCUP CCS	
+28	ICD9:791.3	Urinary System Disease	HCUP CCS	
+28	ICD9:791.4	Urinary System Disease	HCUP CCS	
+28	ICD9:791.7	Urinary System Disease	HCUP CCS	
+28	ICD9:791.9	Urinary System Disease	HCUP CCS	
+28	ICD9:793.5	Urinary System Disease	HCUP CCS	
+28	ICD9:794.4	Urinary System Disease	HCUP CCS	
+28	ICD9:V13.0	Urinary System Disease	HCUP CCS	
+28	ICD9:V41.7	Urinary System Disease	HCUP CCS	
+28	ICD9:V43.5	Urinary System Disease	HCUP CCS	
+28	ICD9:V44.5	Urinary System Disease	HCUP CCS	
+28	ICD9:V44.6	Urinary System Disease	HCUP CCS	
+28	ICD9:V47.4	Urinary System Disease	HCUP CCS	
+28	ICD9:V47.5	Urinary System Disease	HCUP CCS	
+28	ICD9:V53.6	Urinary System Disease	HCUP CCS	
+28	ICD9:V55.5	Urinary System Disease	HCUP CCS	
+28	ICD9:V55.6	Urinary System Disease	HCUP CCS	
+29	ICD10:H52	Blindness and Other Vision Defects	HCUP CCS	
+29	ICD10:H53	Blindness and Other Vision Defects	HCUP CCS	
+29	ICD10:H54	Blindness and Other Vision Defects	HCUP CCS	
+29	ICD10:R48.3	Blindness and Other Vision Defects	HCUP CCS	
+29	ICD10:Z97.3	Blindness and Other Vision Defects	HCUP CCS	
+29	ICD9:367	Blindness and Other Vision Defects	HCUP CCS	
+29	ICD9:368	Blindness and Other Vision Defects	HCUP CCS	
+29	ICD9:369	Blindness and Other Vision Defects	HCUP CCS	
+29	ICD9:V41.0	Blindness and Other Vision Defects	HCUP CCS	
+30	ICD10:E40	Weight Loss  	Quan Elixhauser	
+30	ICD10:E41	Weight Loss  	Quan Elixhauser	
+30	ICD10:E43	Weight Loss  	Quan Elixhauser	
+18	ICD10:C16	Melanoma	HCUP CCS	
+18	ICD10:C17	Melanoma	HCUP CCS	
+18	ICD10:C18	Melanoma	HCUP CCS	
+18	ICD10:C19	Melanoma	HCUP CCS	
+18	ICD10:C20	Melanoma	HCUP CCS	
+18	ICD10:C21	Melanoma	HCUP CCS	
+18	ICD10:C22	Melanoma	HCUP CCS	
+18	ICD10:C23	Melanoma	HCUP CCS	
+18	ICD10:C24	Melanoma	HCUP CCS	
+18	ICD10:C25	Melanoma	HCUP CCS	
+18	ICD10:C26	Melanoma	HCUP CCS	
+18	ICD10:C27	Melanoma	HCUP CCS	
+18	ICD10:C28	Melanoma	HCUP CCS	
+18	ICD10:C29	Melanoma	HCUP CCS	
+18	ICD10:C30	Melanoma	HCUP CCS	
+18	ICD10:C31	Melanoma	HCUP CCS	
+18	ICD10:C32	Melanoma	HCUP CCS	
+18	ICD10:C33	Melanoma	HCUP CCS	
+18	ICD10:C34	Melanoma	HCUP CCS	
+18	ICD10:C38	Melanoma	HCUP CCS	
+18	ICD10:C39	Melanoma	HCUP CCS	
+18	ICD10:C40	Melanoma	HCUP CCS	
+18	ICD10:C41	Melanoma	HCUP CCS	
+18	ICD10:C47	Melanoma	HCUP CCS	
+18	ICD10:C48	Melanoma	HCUP CCS	
+18	ICD10:C49	Melanoma	HCUP CCS	
+18	ICD10:C50.019	Melanoma	HCUP CCS	
+18	ICD10:C50.029	Melanoma	HCUP CCS	
+18	ICD10:C50.119	Melanoma	HCUP CCS	
+18	ICD10:C50.219	Melanoma	HCUP CCS	
+18	ICD10:C50.319	Melanoma	HCUP CCS	
+18	ICD10:C50.419	Melanoma	HCUP CCS	
+18	ICD10:C50.519	Melanoma	HCUP CCS	
+18	ICD10:C50.619	Melanoma	HCUP CCS	
+18	ICD10:C50.819	Melanoma	HCUP CCS	
+18	ICD10:C50.919	Melanoma	HCUP CCS	
+18	ICD10:C50.929	Melanoma	HCUP CCS	
+18	ICD10:C51	Melanoma	HCUP CCS	
+18	ICD10:C52	Melanoma	HCUP CCS	
+18	ICD10:C53	Melanoma	HCUP CCS	
+18	ICD10:C54	Melanoma	HCUP CCS	
+18	ICD10:C55	Melanoma	HCUP CCS	
+18	ICD10:C56	Melanoma	HCUP CCS	
+18	ICD10:C57	Melanoma	HCUP CCS	
+18	ICD10:C58	Melanoma	HCUP CCS	
+18	ICD10:C59	Melanoma	HCUP CCS	
+18	ICD10:C60	Melanoma	HCUP CCS	
+18	ICD10:C61	Melanoma	HCUP CCS	
+18	ICD10:C62	Melanoma	HCUP CCS	
+18	ICD10:C63.2	Melanoma	HCUP CCS	
+18	ICD10:C63.3	Melanoma	HCUP CCS	
+18	ICD10:C63.4	Melanoma	HCUP CCS	
+18	ICD10:C63.5	Melanoma	HCUP CCS	
+18	ICD10:C63.6	Melanoma	HCUP CCS	
+18	ICD10:C63.7	Melanoma	HCUP CCS	
+18	ICD10:C63.8	Melanoma	HCUP CCS	
+18	ICD10:C63.9	Melanoma	HCUP CCS	
+18	ICD10:C64.9	Melanoma	HCUP CCS	
+18	ICD10:C65.9	Melanoma	HCUP CCS	
+18	ICD10:C66.9	Melanoma	HCUP CCS	
+18	ICD10:C67.0	Melanoma	HCUP CCS	
+18	ICD10:C67.1	Melanoma	HCUP CCS	
+18	ICD10:C67.2	Melanoma	HCUP CCS	
+18	ICD10:C67.3	Melanoma	HCUP CCS	
+18	ICD10:C67.4	Melanoma	HCUP CCS	
+18	ICD10:C67.5	Melanoma	HCUP CCS	
+18	ICD10:C67.6	Melanoma	HCUP CCS	
+18	ICD10:C67.7	Melanoma	HCUP CCS	
+18	ICD10:C67.8	Melanoma	HCUP CCS	
+18	ICD10:C67.9	Melanoma	HCUP CCS	
+18	ICD10:C68.0	Melanoma	HCUP CCS	
+18	ICD10:C68.1	Melanoma	HCUP CCS	
+18	ICD10:C68.8	Melanoma	HCUP CCS	
+18	ICD10:C68.9	Melanoma	HCUP CCS	
+18	ICD10:C70	Melanoma	HCUP CCS	
+18	ICD10:C71	Melanoma	HCUP CCS	
+18	ICD10:C72.0	Melanoma	HCUP CCS	
+18	ICD10:C72.1	Melanoma	HCUP CCS	
+18	ICD10:C72.50	Melanoma	HCUP CCS	
+18	ICD10:C72.9	Melanoma	HCUP CCS	
+18	ICD10:C73	Melanoma	HCUP CCS	
+18	ICD10:C76.0	Melanoma	HCUP CCS	
+18	ICD10:C7A.010	Melanoma	HCUP CCS	
+18	ICD10:C7A.011	Melanoma	HCUP CCS	
+18	ICD10:C7A.012	Melanoma	HCUP CCS	
+18	ICD10:C7A.019	Melanoma	HCUP CCS	
+18	ICD10:C7A.020	Melanoma	HCUP CCS	
+18	ICD10:C7A.021	Melanoma	HCUP CCS	
+18	ICD10:C7A.022	Melanoma	HCUP CCS	
+18	ICD10:C7A.023	Melanoma	HCUP CCS	
+18	ICD10:C7A.024	Melanoma	HCUP CCS	
+18	ICD10:C7A.025	Melanoma	HCUP CCS	
+18	ICD10:C7A.026	Melanoma	HCUP CCS	
+18	ICD10:C7A.029	Melanoma	HCUP CCS	
+18	ICD10:C7A.090	Melanoma	HCUP CCS	
+18	ICD10:C7A.092	Melanoma	HCUP CCS	
+18	ICD10:C7A.093	Melanoma	HCUP CCS	
+18	ICD10:D00	Melanoma	HCUP CCS	
+18	ICD10:D01	Melanoma	HCUP CCS	
+18	ICD10:D02	Melanoma	HCUP CCS	
+18	ICD10:D05.90	Melanoma	HCUP CCS	
+18	ICD10:D06.9	Melanoma	HCUP CCS	
+18	ICD10:D07	Melanoma	HCUP CCS	
+18	ICD10:D09.0	Melanoma	HCUP CCS	
+18	ICD10:D09.10	Melanoma	HCUP CCS	
+18	ICD10:D09.19	Melanoma	HCUP CCS	
+18	ICD10:E31.22	Melanoma	HCUP CCS	
+18	ICD10:E31.23	Melanoma	HCUP CCS	
+18	ICD10:R85.610	Melanoma	HCUP CCS	
+18	ICD10:R85.611	Melanoma	HCUP CCS	
+18	ICD10:R85.612	Melanoma	HCUP CCS	
+18	ICD10:R85.613	Melanoma	HCUP CCS	
+18	ICD10:R85.614	Melanoma	HCUP CCS	
+18	ICD10:R85.619	Melanoma	HCUP CCS	
+18	ICD10:R87.610	Melanoma	HCUP CCS	
+18	ICD10:R87.611	Melanoma	HCUP CCS	
+18	ICD10:R87.612	Melanoma	HCUP CCS	
+18	ICD10:R87.613	Melanoma	HCUP CCS	
+18	ICD10:R87.614	Melanoma	HCUP CCS	
+18	ICD10:R87.619	Melanoma	HCUP CCS	
+18	ICD10:R87.624	Melanoma	HCUP CCS	
+18	ICD10:Z85	Melanoma	HCUP CCS	
+18	ICD9:172	Melanoma	HCUP CCS	
+18	ICD9:V10.82	Melanoma	HCUP CCS	
+18	ICD9:200	Melanoma	HCUP CCS	
+18	ICD9:201	Melanoma	HCUP CCS	
+18	ICD9:202.0	Melanoma	HCUP CCS	
+18	ICD9:202.1	Melanoma	HCUP CCS	
+18	ICD9:202.2	Melanoma	HCUP CCS	
+18	ICD9:202.4	Melanoma	HCUP CCS	
+18	ICD9:202.7	Melanoma	HCUP CCS	
+18	ICD9:202.8	Melanoma	HCUP CCS	
+18	ICD9:202.9	Melanoma	HCUP CCS	
+18	ICD9:203	Melanoma	HCUP CCS	
+18	ICD9:204	Melanoma	HCUP CCS	
+18	ICD9:205	Melanoma	HCUP CCS	
+18	ICD9:206	Melanoma	HCUP CCS	
+18	ICD9:207	Melanoma	HCUP CCS	
+18	ICD9:208	Melanoma	HCUP CCS	
+18	ICD9:V10.6	Melanoma	HCUP CCS	
+18	ICD9:V10.7	Melanoma	HCUP CCS	
+18	ICD9:140	Melanoma	HCUP CCS	
+18	ICD9:141	Melanoma	HCUP CCS	
+18	ICD9:142	Melanoma	HCUP CCS	
+18	ICD9:143	Melanoma	HCUP CCS	
+18	ICD9:144	Melanoma	HCUP CCS	
+18	ICD9:145	Melanoma	HCUP CCS	
+18	ICD9:146	Melanoma	HCUP CCS	
+18	ICD9:147	Melanoma	HCUP CCS	
+18	ICD9:148	Melanoma	HCUP CCS	
+18	ICD9:149	Melanoma	HCUP CCS	
+18	ICD9:150	Melanoma	HCUP CCS	
+18	ICD9:151	Melanoma	HCUP CCS	
+18	ICD9:152	Melanoma	HCUP CCS	
+18	ICD9:153	Melanoma	HCUP CCS	
+18	ICD9:154	Melanoma	HCUP CCS	
+18	ICD9:155	Melanoma	HCUP CCS	
+18	ICD9:156	Melanoma	HCUP CCS	
+18	ICD9:157	Melanoma	HCUP CCS	
+18	ICD9:158	Melanoma	HCUP CCS	
+18	ICD9:159	Melanoma	HCUP CCS	
+18	ICD9:160	Melanoma	HCUP CCS	
+18	ICD9:161	Melanoma	HCUP CCS	
+18	ICD9:162	Melanoma	HCUP CCS	
+18	ICD9:163	Melanoma	HCUP CCS	
+18	ICD9:165	Melanoma	HCUP CCS	
+18	ICD9:170	Melanoma	HCUP CCS	
+18	ICD9:171	Melanoma	HCUP CCS	
+18	ICD9:174	Melanoma	HCUP CCS	
+18	ICD9:175	Melanoma	HCUP CCS	
+18	ICD9:179	Melanoma	HCUP CCS	
+18	ICD9:180	Melanoma	HCUP CCS	
+18	ICD9:181	Melanoma	HCUP CCS	
+18	ICD9:182	Melanoma	HCUP CCS	
+18	ICD9:183	Melanoma	HCUP CCS	
+18	ICD9:184	Melanoma	HCUP CCS	
+18	ICD9:185	Melanoma	HCUP CCS	
+18	ICD9:186	Melanoma	HCUP CCS	
+18	ICD9:187	Melanoma	HCUP CCS	
+18	ICD9:188	Melanoma	HCUP CCS	
+18	ICD9:189	Melanoma	HCUP CCS	
+18	ICD9:191	Melanoma	HCUP CCS	
+18	ICD9:192	Melanoma	HCUP CCS	
+18	ICD9:193	Melanoma	HCUP CCS	
+18	ICD9:195.0	Melanoma	HCUP CCS	
+18	ICD9:209.0	Melanoma	HCUP CCS	
+18	ICD9:209.1	Melanoma	HCUP CCS	
+18	ICD9:209.21	Melanoma	HCUP CCS	
+18	ICD9:209.23	Melanoma	HCUP CCS	
+18	ICD9:209.24	Melanoma	HCUP CCS	
+18	ICD9:230	Melanoma	HCUP CCS	
+18	ICD9:231	Melanoma	HCUP CCS	
+18	ICD9:233	Melanoma	HCUP CCS	
+18	ICD9:258.02	Melanoma	HCUP CCS	
+18	ICD9:258.03	Melanoma	HCUP CCS	
+18	ICD9:795.00	Melanoma	HCUP CCS	
+18	ICD9:795.01	Melanoma	HCUP CCS	
+18	ICD9:795.02	Melanoma	HCUP CCS	
+18	ICD9:795.03	Melanoma	HCUP CCS	
+18	ICD9:795.04	Melanoma	HCUP CCS	
+18	ICD9:795.06	Melanoma	HCUP CCS	
+18	ICD9:795.16	Melanoma	HCUP CCS	
+18	ICD9:796.70	Melanoma	HCUP CCS	
+18	ICD9:796.71	Melanoma	HCUP CCS	
+18	ICD9:796.72	Melanoma	HCUP CCS	
+18	ICD9:796.73	Melanoma	HCUP CCS	
+18	ICD9:796.74	Melanoma	HCUP CCS	
+18	ICD9:796.76	Melanoma	HCUP CCS	
+18	ICD9:V10.0	Melanoma	HCUP CCS	
+18	ICD9:V10.1	Melanoma	HCUP CCS	
+18	ICD9:V10.20	Melanoma	HCUP CCS	
+18	ICD9:V10.21	Melanoma	HCUP CCS	
+18	ICD9:V10.22	Melanoma	HCUP CCS	
+18	ICD9:V10.3	Melanoma	HCUP CCS	
+18	ICD9:V10.4	Melanoma	HCUP CCS	
+18	ICD9:V10.5	Melanoma	HCUP CCS	
+18	ICD9:V10.85	Melanoma	HCUP CCS	
+18	ICD9:V10.86	Melanoma	HCUP CCS	
+18	ICD9:V10.87	Melanoma	HCUP CCS	
+19	ICD10:F00	Dementia	Quan Charlson	
+19	ICD10:F01	Dementia	Quan Charlson	
+19	ICD10:F02	Dementia	Quan Charlson	
+19	ICD10:F03	Dementia	Quan Charlson	
+19	ICD10:F05.1	Dementia	Quan Charlson	
+19	ICD10:G30	Dementia	Quan Charlson	
+19	ICD10:G31.1	Dementia	Quan Charlson	
+19	ICD9:290	Dementia	Quan Charlson	
+19	ICD9:294.1	Dementia	Quan Charlson	
+19	ICD9:331.2	Dementia	Quan Charlson	
+20	ICD10:M81.0	Osteoporosis	HCUP CCS	
+20	ICD10:M81.8	Osteoporosis	HCUP CCS	
+20	ICD9:733.0	Osteoporosis	HCUP CCS	
+21	ICD10:G20	Parkinson's Disease	Tonelli	
+21	ICD10:G21.11	Parkinson's Disease	Tonelli	
+21	ICD10:G21.19	Parkinson's Disease	Tonelli	
+21	ICD10:G21.8	Parkinson's Disease	Tonelli	
+21	ICD9:332.0	Parkinson's Disease	Tonelli	
+21	ICD9:332.1	Parkinson's Disease	Tonelli	
+22	ICD10:K25	Peptic Ulcer	Quan Charlson	
+22	ICD10:K26	Peptic Ulcer	Quan Charlson	
+22	ICD10:K27	Peptic Ulcer	Quan Charlson	
+22	ICD10:K28	Peptic Ulcer	Quan Charlson	
+22	ICD9:531	Peptic Ulcer	Quan Charlson	
+22	ICD9:532	Peptic Ulcer	Quan Charlson	
+22	ICD9:533	Peptic Ulcer	Quan Charlson	
+22	ICD9:534	Peptic Ulcer	Quan Charlson	
+23	ICD10:I70	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:I71	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:I73.1	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:I73.8	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:I73.9	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:I77.1	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:I79.0	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:I79.2	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:K55.1	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:K55.8	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:K55.9	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:Z95.8	Peripheral Vascular Disease	Quan Charlson	
+23	ICD10:Z95.9	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:093.0	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:437.3	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:440	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:441	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:443.1	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:443.2	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:443.3	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:443.4	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:443.5	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:443.6	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:443.7	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:443.8	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:443.9	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:447.1	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:557.1	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:557.9	Peripheral Vascular Disease	Quan Charlson	
+23	ICD9:V43.4	Peripheral Vascular Disease	Quan Charlson	
+24	ICD10:I27.8	Pulmonary Disease	Quan Charlson	
+24	ICD10:I27.9	Pulmonary Disease	Quan Charlson	
+24	ICD10:J40	Pulmonary Disease	Quan Charlson	
+24	ICD10:J41	Pulmonary Disease	Quan Charlson	
+24	ICD10:J42	Pulmonary Disease	Quan Charlson	
+24	ICD10:J43	Pulmonary Disease	Quan Charlson	
+24	ICD10:J44	Pulmonary Disease	Quan Charlson	
+24	ICD10:J45	Pulmonary Disease	Quan Charlson	
+24	ICD10:J46	Pulmonary Disease	Quan Charlson	
+24	ICD10:J47	Pulmonary Disease	Quan Charlson	
+24	ICD10:J60	Pulmonary Disease	Quan Charlson	
+24	ICD10:J61	Pulmonary Disease	Quan Charlson	
+24	ICD10:J62	Pulmonary Disease	Quan Charlson	
+24	ICD10:J63	Pulmonary Disease	Quan Charlson	
+24	ICD10:J64	Pulmonary Disease	Quan Charlson	
+24	ICD10:J65	Pulmonary Disease	Quan Charlson	
+24	ICD10:J66	Pulmonary Disease	Quan Charlson	
+24	ICD10:J67	Pulmonary Disease	Quan Charlson	
+24	ICD10:J68.4	Pulmonary Disease	Quan Charlson	
+24	ICD10:J70.1	Pulmonary Disease	Quan Charlson	
+24	ICD10:J70.3	Pulmonary Disease	Quan Charlson	
+24	ICD9:416.8	Pulmonary Disease	Quan Charlson	
+24	ICD9:416.9	Pulmonary Disease	Quan Charlson	
+24	ICD9:490	Pulmonary Disease	Quan Charlson	
+24	ICD9:491	Pulmonary Disease	Quan Charlson	
+24	ICD9:492	Pulmonary Disease	Quan Charlson	
+24	ICD9:493	Pulmonary Disease	Quan Charlson	
+24	ICD9:494	Pulmonary Disease	Quan Charlson	
+24	ICD9:495	Pulmonary Disease	Quan Charlson	
+24	ICD9:496	Pulmonary Disease	Quan Charlson	
+24	ICD9:497	Pulmonary Disease	Quan Charlson	
+24	ICD9:498	Pulmonary Disease	Quan Charlson	
+24	ICD9:499	Pulmonary Disease	Quan Charlson	
+24	ICD9:500	Pulmonary Disease	Quan Charlson	
+24	ICD9:501	Pulmonary Disease	Quan Charlson	
+24	ICD9:502	Pulmonary Disease	Quan Charlson	
+24	ICD9:503	Pulmonary Disease	Quan Charlson	
+24	ICD9:504	Pulmonary Disease	Quan Charlson	
+24	ICD9:505	Pulmonary Disease	Quan Charlson	
+24	ICD9:506.4	Pulmonary Disease	Quan Charlson	
+24	ICD9:508.1	Pulmonary Disease	Quan Charlson	
+24	ICD9:508.9	Pulmonary Disease	Quan Charlson	
+25	ICD10:L89	Skin Ulcer	Manual Lookup	
+25	ICD10:L97	Skin Ulcer	Manual Lookup	
+25	ICD10:L98.4	Skin Ulcer	Manual Lookup	
+25	ICD9:707.0	Skin Ulcer	Manual Lookup	
+25	ICD9:707.1	Skin Ulcer	Manual Lookup	
+30	ICD10:E44.0	Weight Loss  	Quan Elixhauser	
+30	ICD10:E44.1	Weight Loss  	Quan Elixhauser	
+30	ICD10:E45	Weight Loss  	Quan Elixhauser	
+30	ICD10:E46	Weight Loss  	Quan Elixhauser	
+30	ICD10:R63.4	Weight Loss  	Quan Elixhauser	
+30	ICD10:R63.6	Weight Loss  	Quan Elixhauser	
+30	ICD10:R64	Weight Loss  	Quan Elixhauser	
+30	ICD9:260	Weight Loss  	Quan Elixhauser	
+30	ICD9:261	Weight Loss  	Quan Elixhauser	
+30	ICD9:262	Weight Loss  	Quan Elixhauser	
+30	ICD9:263	Weight Loss  	Quan Elixhauser	
+30	ICD9:783.2	Weight Loss  	Quan Elixhauser	
+30	ICD9:799.4	Weight Loss  	Quan Elixhauser	
+31	ICD10:F20.4	Depression	Quan Elixhauser	
+31	ICD10:F31.3	Depression	Quan Elixhauser	
+31	ICD10:F31.4	Depression	Quan Elixhauser	
+31	ICD10:F31.5	Depression	Quan Elixhauser	
+31	ICD10:F32	Depression	Quan Elixhauser	
+31	ICD10:F33	Depression	Quan Elixhauser	
+31	ICD10:F34.1	Depression	Quan Elixhauser	
+31	ICD10:F41.2	Depression	Quan Elixhauser	
+31	ICD10:F43.2	Depression	Quan Elixhauser	
+31	ICD9:296.2	Depression	Quan Elixhauser	
+31	ICD9:296.3	Depression	Quan Elixhauser	
+31	ICD9:296.5	Depression	Quan Elixhauser	
+31	ICD9:300.4	Depression	Quan Elixhauser	
+31	ICD9:309	Depression	Quan Elixhauser	
+31	ICD9:311	Depression	Quan Elixhauser	
+32	ICD10:B18	Mild Liver Disease	Quan Charlson	
+32	ICD10:K70.0	Mild Liver Disease	Quan Charlson	
+32	ICD10:K70.1	Mild Liver Disease	Quan Charlson	
+32	ICD10:K70.2	Mild Liver Disease	Quan Charlson	
+32	ICD10:K70.3	Mild Liver Disease	Quan Charlson	
+32	ICD10:K70.9	Mild Liver Disease	Quan Charlson	
+32	ICD10:K71.3	Mild Liver Disease	Quan Charlson	
+32	ICD10:K71.4	Mild Liver Disease	Quan Charlson	
+32	ICD10:K71.5	Mild Liver Disease	Quan Charlson	
+32	ICD10:K71.7	Mild Liver Disease	Quan Charlson	
+32	ICD10:K73	Mild Liver Disease	Quan Charlson	
+32	ICD10:K74	Mild Liver Disease	Quan Charlson	
+32	ICD10:K76.0	Mild Liver Disease	Quan Charlson	
+32	ICD10:K76.2	Mild Liver Disease	Quan Charlson	
+32	ICD10:K76.3	Mild Liver Disease	Quan Charlson	
+32	ICD10:K76.4	Mild Liver Disease	Quan Charlson	
+32	ICD10:K76.8	Mild Liver Disease	Quan Charlson	
+32	ICD10:K76.9	Mild Liver Disease	Quan Charlson	
+32	ICD10:Z94.4	Mild Liver Disease	Quan Charlson	
+32	ICD10:I85.0	Mild Liver Disease	Quan Charlson	
+32	ICD10:I85.9	Mild Liver Disease	Quan Charlson	
+32	ICD10:I86.4	Mild Liver Disease	Quan Charlson	
+32	ICD10:I98.2	Mild Liver Disease	Quan Charlson	
+32	ICD10:K70.4	Mild Liver Disease	Quan Charlson	
+32	ICD10:K71.1	Mild Liver Disease	Quan Charlson	
+32	ICD10:K72.1	Mild Liver Disease	Quan Charlson	
+32	ICD10:K72.9	Mild Liver Disease	Quan Charlson	
+32	ICD10:K76.5	Mild Liver Disease	Quan Charlson	
+32	ICD10:K76.6	Mild Liver Disease	Quan Charlson	
+32	ICD10:K76.7	Mild Liver Disease	Quan Charlson	
+32	ICD9:070.22	Mild Liver Disease	Quan Charlson	
+32	ICD9:070.23	Mild Liver Disease	Quan Charlson	
+32	ICD9:070.32	Mild Liver Disease	Quan Charlson	
+32	ICD9:070.33	Mild Liver Disease	Quan Charlson	
+32	ICD9:070.44	Mild Liver Disease	Quan Charlson	
+32	ICD9:070.54	Mild Liver Disease	Quan Charlson	
+32	ICD9:070.6	Mild Liver Disease	Quan Charlson	
+32	ICD9:070.9	Mild Liver Disease	Quan Charlson	
+32	ICD9:570	Mild Liver Disease	Quan Charlson	
+32	ICD9:571	Mild Liver Disease	Quan Charlson	
+32	ICD9:573.3	Mild Liver Disease	Quan Charlson	
+32	ICD9:573.4	Mild Liver Disease	Quan Charlson	
+32	ICD9:573.8	Mild Liver Disease	Quan Charlson	
+32	ICD9:573.9	Mild Liver Disease	Quan Charlson	
+32	ICD9:V42.7	Mild Liver Disease	Quan Charlson	
+32	ICD9:456.0	Mild Liver Disease	Quan Charlson	
+32	ICD9:456.1	Mild Liver Disease	Quan Charlson	
+32	ICD9:456.2	Mild Liver Disease	Quan Charlson	
+32	ICD9:572.2	Mild Liver Disease	Quan Charlson	
+32	ICD9:572.3	Mild Liver Disease	Quan Charlson	
+32	ICD9:572.4	Mild Liver Disease	Quan Charlson	
+32	ICD9:572.5	Mild Liver Disease	Quan Charlson	
+32	ICD9:572.6	Mild Liver Disease	Quan Charlson	
+32	ICD9:572.7	Mild Liver Disease	Quan Charlson	
+32	ICD9:572.8	Mild Liver Disease	Quan Charlson	
+33	ICD10:F45.4	Chronic Pain	Tonelli	
+33	ICD10:M08.1	Chronic Pain	Tonelli	
+33	ICD10:M25.50	Chronic Pain	Tonelli	
+33	ICD10:M25.51	Chronic Pain	Tonelli	
+33	ICD10:M25.55	Chronic Pain	Tonelli	
+33	ICD10:M25.56	Chronic Pain	Tonelli	
+33	ICD10:M25.57	Chronic Pain	Tonelli	
+33	ICD10:M43.2	Chronic Pain	Tonelli	
+33	ICD10:M43.3	Chronic Pain	Tonelli	
+18	ICD10:C82.9	Melanoma	HCUP CCS	
+18	ICD10:C83.10	Melanoma	HCUP CCS	
+18	ICD10:C83.1	Melanoma	HCUP CCS	
+18	ICD10:C83.2	Melanoma	HCUP CCS	
+18	ICD10:C83.3	Melanoma	HCUP CCS	
+18	ICD10:C83.4	Melanoma	HCUP CCS	
+18	ICD10:C83.5	Melanoma	HCUP CCS	
+18	ICD10:C83.6	Melanoma	HCUP CCS	
+18	ICD10:C83.7	Melanoma	HCUP CCS	
+18	ICD10:C83.8	Melanoma	HCUP CCS	
+18	ICD10:C84.0	Melanoma	HCUP CCS	
+18	ICD10:C84.1	Melanoma	HCUP CCS	
+18	ICD10:C84.2	Melanoma	HCUP CCS	
+18	ICD10:C84.3	Melanoma	HCUP CCS	
+18	ICD10:C84.4	Melanoma	HCUP CCS	
+18	ICD10:C84.5	Melanoma	HCUP CCS	
+18	ICD10:C84.6	Melanoma	HCUP CCS	
+18	ICD10:C84.7	Melanoma	HCUP CCS	
+18	ICD10:C84.93	Melanoma	HCUP CCS	
+18	ICD10:C85.8	Melanoma	HCUP CCS	
+18	ICD10:C88.8	Melanoma	HCUP CCS	
+18	ICD10:C90.0	Melanoma	HCUP CCS	
+18	ICD10:C90.1	Melanoma	HCUP CCS	
+18	ICD10:C90.2	Melanoma	HCUP CCS	
+18	ICD10:C90.3	Melanoma	HCUP CCS	
+18	ICD10:C91.0	Melanoma	HCUP CCS	
+18	ICD10:C91.1	Melanoma	HCUP CCS	
+18	ICD10:C91.4	Melanoma	HCUP CCS	
+18	ICD10:C91.9	Melanoma	HCUP CCS	
+18	ICD10:C91.Z	Melanoma	HCUP CCS	
+18	ICD10:C92.0	Melanoma	HCUP CCS	
+18	ICD10:C92.1	Melanoma	HCUP CCS	
+18	ICD10:C92.2	Melanoma	HCUP CCS	
+18	ICD10:C92.3	Melanoma	HCUP CCS	
+18	ICD10:C92.4	Melanoma	HCUP CCS	
+18	ICD10:C92.5	Melanoma	HCUP CCS	
+18	ICD10:C92.9	Melanoma	HCUP CCS	
+18	ICD10:C92.Z	Melanoma	HCUP CCS	
+18	ICD10:C93.0	Melanoma	HCUP CCS	
+18	ICD10:C93.1	Melanoma	HCUP CCS	
+18	ICD10:C93.9	Melanoma	HCUP CCS	
+18	ICD10:C93.Z	Melanoma	HCUP CCS	
+18	ICD10:C94.0	Melanoma	HCUP CCS	
+18	ICD10:C94.2	Melanoma	HCUP CCS	
+18	ICD10:C94.3	Melanoma	HCUP CCS	
+18	ICD10:C94.8	Melanoma	HCUP CCS	
+18	ICD10:C95.0	Melanoma	HCUP CCS	
+18	ICD10:C95.1	Melanoma	HCUP CCS	
+18	ICD10:C95.9	Melanoma	HCUP CCS	
+18	ICD10:C96.4	Melanoma	HCUP CCS	
+18	ICD10:C96.9	Melanoma	HCUP CCS	
+18	ICD10:C96.Z	Melanoma	HCUP CCS	
+18	ICD10:D45	Melanoma	HCUP CCS	
+18	ICD10:Z85.6	Melanoma	HCUP CCS	
+18	ICD10:Z85.71	Melanoma	HCUP CCS	
+18	ICD10:Z85.79	Melanoma	HCUP CCS	
+18	ICD10:Z85.831	Melanoma	HCUP CCS	
+18	ICD10:C00	Melanoma	HCUP CCS	
+18	ICD10:C01	Melanoma	HCUP CCS	
+18	ICD10:C02	Melanoma	HCUP CCS	
+18	ICD10:C03	Melanoma	HCUP CCS	
+18	ICD10:C04	Melanoma	HCUP CCS	
+18	ICD10:C05	Melanoma	HCUP CCS	
+18	ICD10:C06	Melanoma	HCUP CCS	
+18	ICD10:C07	Melanoma	HCUP CCS	
+18	ICD10:C08	Melanoma	HCUP CCS	
+18	ICD10:C09	Melanoma	HCUP CCS	
+18	ICD10:C10	Melanoma	HCUP CCS	
+18	ICD10:C11	Melanoma	HCUP CCS	
+18	ICD10:C12	Melanoma	HCUP CCS	
+18	ICD10:C13	Melanoma	HCUP CCS	
+18	ICD10:C14	Melanoma	HCUP CCS	
+18	ICD10:C15	Melanoma	HCUP CCS	
+48	TOBACCO_USER:4	Former smoker		Not a standard code, may vary between different EMR systems
+48	TOBACCO_USER:1	Current smoker		Not a standard code, may vary between different EMR systems
+33	ICD10:M43.4	Chronic Pain	Tonelli	
+33	ICD10:M43.5	Chronic Pain	Tonelli	
+33	ICD10:M43.6	Chronic Pain	Tonelli	
+33	ICD10:M45	Chronic Pain	Tonelli	
+33	ICD10:M46.1	Chronic Pain	Tonelli	
+33	ICD10:M46.3	Chronic Pain	Tonelli	
+33	ICD10:M46.4	Chronic Pain	Tonelli	
+33	ICD10:M46.9	Chronic Pain	Tonelli	
+33	ICD10:M47	Chronic Pain	Tonelli	
+33	ICD10:M48.0	Chronic Pain	Tonelli	
+33	ICD10:M48.1	Chronic Pain	Tonelli	
+33	ICD10:M48.8	Chronic Pain	Tonelli	
+33	ICD10:M48.9	Chronic Pain	Tonelli	
+33	ICD10:M50.8	Chronic Pain	Tonelli	
+33	ICD10:M50.9	Chronic Pain	Tonelli	
+33	ICD10:M51	Chronic Pain	Tonelli	
+33	ICD10:M53.1	Chronic Pain	Tonelli	
+33	ICD10:M53.2	Chronic Pain	Tonelli	
+33	ICD10:M53.3	Chronic Pain	Tonelli	
+33	ICD10:M53.8	Chronic Pain	Tonelli	
+33	ICD10:M53.9	Chronic Pain	Tonelli	
+33	ICD10:M54	Chronic Pain	Tonelli	
+33	ICD10:M60.8	Chronic Pain	Tonelli	
+33	ICD10:M60.9	Chronic Pain	Tonelli	
+33	ICD10:M63.3	Chronic Pain	Tonelli	
+33	ICD10:M79.0	Chronic Pain	Tonelli	
+33	ICD10:M79.1	Chronic Pain	Tonelli	
+33	ICD10:M79.2	Chronic Pain	Tonelli	
+33	ICD10:M79.6	Chronic Pain	Tonelli	
+33	ICD10:M79.7	Chronic Pain	Tonelli	
+33	ICD10:M96.1	Chronic Pain	Tonelli	
+33	ICD9:307.80	Chronic Pain	Tonelli	
+33	ICD9:307.89	Chronic Pain	Tonelli	
+33	ICD9:338.0	Chronic Pain	Tonelli	
+33	ICD9:338.2	Chronic Pain	Tonelli	
+33	ICD9:338.4	Chronic Pain	Tonelli	
+33	ICD9:719.41	Chronic Pain	Tonelli	
+33	ICD9:719.45	Chronic Pain	Tonelli	
+33	ICD9:719.46	Chronic Pain	Tonelli	
+33	ICD9:719.47	Chronic Pain	Tonelli	
+33	ICD9:719.49	Chronic Pain	Tonelli	
+33	ICD9:720.0	Chronic Pain	Tonelli	
+33	ICD9:720.2	Chronic Pain	Tonelli	
+33	ICD9:720.9	Chronic Pain	Tonelli	
+33	ICD9:721.0	Chronic Pain	Tonelli	
+33	ICD9:721.1	Chronic Pain	Tonelli	
+33	ICD9:721.2	Chronic Pain	Tonelli	
+33	ICD9:721.3	Chronic Pain	Tonelli	
+33	ICD9:721.4	Chronic Pain	Tonelli	
+33	ICD9:721.6	Chronic Pain	Tonelli	
+33	ICD9:721.8	Chronic Pain	Tonelli	
+33	ICD9:721.9	Chronic Pain	Tonelli	
+33	ICD9:722	Chronic Pain	Tonelli	
+33	ICD9:723.0	Chronic Pain	Tonelli	
+33	ICD9:723.1	Chronic Pain	Tonelli	
+33	ICD9:723.3	Chronic Pain	Tonelli	
+33	ICD9:723.4	Chronic Pain	Tonelli	
+33	ICD9:723.5	Chronic Pain	Tonelli	
+33	ICD9:723.6	Chronic Pain	Tonelli	
+33	ICD9:723.7	Chronic Pain	Tonelli	
+33	ICD9:723.8	Chronic Pain	Tonelli	
+33	ICD9:723.9	Chronic Pain	Tonelli	
+33	ICD9:724.0	Chronic Pain	Tonelli	
+33	ICD9:724.1	Chronic Pain	Tonelli	
+33	ICD9:724.2	Chronic Pain	Tonelli	
+33	ICD9:724.3	Chronic Pain	Tonelli	
+33	ICD9:724.4	Chronic Pain	Tonelli	
+33	ICD9:724.5	Chronic Pain	Tonelli	
+33	ICD9:724.6	Chronic Pain	Tonelli	
+33	ICD9:724.70	Chronic Pain	Tonelli	
+33	ICD9:724.79	Chronic Pain	Tonelli	
+33	ICD9:724.8	Chronic Pain	Tonelli	
+33	ICD9:724.9	Chronic Pain	Tonelli	
+33	ICD9:729.0	Chronic Pain	Tonelli	
+33	ICD9:729.1	Chronic Pain	Tonelli	
+33	ICD9:729.2	Chronic Pain	Tonelli	
+33	ICD9:729.4	Chronic Pain	Tonelli	
+33	ICD9:729.5	Chronic Pain	Tonelli	
