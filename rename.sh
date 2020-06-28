@@ -17,7 +17,17 @@ sed -i "s/I2B2METADATA.I2B2/MY_ONTOLOGY.MY_TERMS/gI" *.sql
 sed -i "s/I2B2METADATA/MY_ONTOLOGY/gI" *.sql
 sed -i "s/I2B2IDENTIFIED/MY_IDENTIFIED_DATAMART/gI" *.sql
 sed -i "s/ETLUSER/C##ALEX/gI" *.sql
-sed -i "s/‘i2b2’/'MY_TERMS’/gI" *.sql
+sed -i "s/'i2b2'/'MY_TERMS'/gI" *.sql
+# These alter your mapping tables. You can add any other local codes here as 
+# needed
+sed -i "s/PAT_ENC:BP_SYSTOLIC_ART/LOCAL_BP_SYSTOLIC_ART_CODE/gI" *.csv
+sed -i "s/PAT_ENC:BP_SYSTOLIC/LOCAL_BP_SYSTOLIC_CODE/gI" *.csv
+sed -i "s/PAT_ENC:BP_DIASTOLIC/LOCAL_BP_DIASTOLIC_CODE/gI" *.csv
+sed -i "s/PAT_ENC:BP_DIASTOLIC_ART/LOCAL_BP_DIASTOLIC_ART_CODE/gI" *.csv
+sed -i "s/PAT_ENC:BMI/LOCAL_BMI_CODE/gI" *.csv
+sed -i "s/TOBACCO_USER:4/LOCAL_FORMER_SMOKER_CODE/gI" *.csv
+sed -i "s/TOBACCO_USER:1/LOCAL_CURRENT_SMOKER_CODE/gI" *.csv
+
 
 ###############################################################################
 # If you are going to contribute patches back to this project, please         #
