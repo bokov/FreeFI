@@ -1050,8 +1050,8 @@ GRP	DIAG	DEFICIT	SOURCE	NOTES
 18	ICD10:C13	Melanoma	HCUP CCS	
 18	ICD10:C14	Melanoma	HCUP CCS	
 18	ICD10:C15	Melanoma	HCUP CCS	
-48	TOBACCO_USER:4	Former smoker		Not a standard code, may vary between different EMR systems
-48	TOBACCO_USER:1	Current smoker		Not a standard code, may vary between different EMR systems
+48	TOBACCO_USER:4	Former -	anual	Not a standard code, may vary between different EMR systems
+48	TOBACCO_USER:1	Current -	Manual	Not a standard code, may vary between different EMR systems
 33	ICD10:M43.4	Chronic Pain	Tonelli	
 33	ICD10:M43.5	Chronic Pain	Tonelli	
 33	ICD10:M43.6	Chronic Pain	Tonelli	
