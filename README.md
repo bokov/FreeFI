@@ -1,5 +1,7 @@
 # Open Frailty Index: [Rockwood](https://bmcgeriatr.biomedcentral.com/articles/10.1186/1471-2318-8-24) methodology applied to EMR data
 
+[![DOI](https://zenodo.org/badge/275004912.svg)](https://zenodo.org/badge/latestdoi/275004912)
+
 ## Background 
 
 The frailty index is a powerful general-purpose tool for predicting risks of complications, readmissions, ER utilization, and other preventable patient outcomes. Over the last 15 years, the Rockwood-style frailty score has been adapted to many sources of health data. The underlying algorithm is remarkably simple: 
